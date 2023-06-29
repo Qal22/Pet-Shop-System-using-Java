@@ -1,0 +1,18 @@
+Ahmad Nazirul Arif Bin Mohd Rosdi;0182884073;Dog;1;Samoyed;860.00
+Muhamad Najmi Bin Badrila;0182884073;Cat;2;Small;30.00
+Muhammad Amiruddin Bin Muhammad Huzaifah;0182884073;Rabbit;1;Cashmere Lop;100.00
+Muhammad Arif Bin Othman;0182884073;Fish;2;Big;40.00
+Muhammad Daniel Bin Khairuzi;0182884073;Bird;1;Owl;1;240.00
+Muhammad Faiz Bin Mahadzir;0182884073;Chameleons;2;Small;30.00
+Muhmmad Fakhrul Hakim Bin Sufian;0182884073;Dog;1;Siberian Husky;990.00
+Muhammad Fazrool Khan Bin Sarbini;0182884073;Cat;2;Cage;60.00
+Muhammad Hakim Bin Mohammad Fadzli;0182884073;Rabbit;1;Angora Teddy Bears;99.00
+Muhammad Hariz Fitri Bin Mohd Azizi;0182884073;Fish;2;Aquarium;60.00
+Muhammad Hazim Bin Hafizalshah;0182884073;Bird;1;Parrot;160.00
+Naief Iman Bin Eleshamsor;0182884073;Chameleons;2;Aquarium;60.00
+Nur Iqbal Amali Bin Alias;0182884073;Dog;1;Beagle;750.00
+Nur Khaliesya Nabihah Binti Shamsul Elme;0182884073;Cat;2;Collars & Bowls;40.00
+Nurul Ain Balqis Binti Mahmood;0182884073;Rabbit;1;Jersey Wooly;110.00
+Nurul Aini Nabila Binti Fauzi;0182884073;Fish;2;Filter & Air Pump;40.00
+Nurul Shahirah Binti Mohd salim;0182884073;Bird;1;Kingfisher;99.90
+Suzana Suliman;0182884073;Chameleons;2;Lighting & Heating;40.00
